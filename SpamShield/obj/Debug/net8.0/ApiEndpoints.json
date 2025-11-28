@@ -1,0 +1,182 @@
+[
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "InstaHyreSDETest.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerModel",
+        "Type": "InstaHyreSDETest.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "AddPersonalContacts",
+    "RelativePath": "api/GlobalContacts/AddPersonalContacts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactModel",
+        "Type": "InstaHyreSDETest.Models.ContactModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "api/GlobalContacts/CreateContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "InstaHyreSDETest.Models.GlobalContactModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/GlobalContacts/DeleteContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "GetAllContacts",
+    "RelativePath": "api/GlobalContacts/GetAllContacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "GetContact",
+    "RelativePath": "api/GlobalContacts/GetContact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "MarkNotSpam",
+    "RelativePath": "api/GlobalContacts/MarkNotSpam",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "MarkSpam",
+    "RelativePath": "api/GlobalContacts/MarkSpam",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "SearchAllSpamContacts",
+    "RelativePath": "api/GlobalContacts/SearchAllSpamContacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "SearchByContact",
+    "RelativePath": "api/GlobalContacts/SearchByContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "phoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InstaHyreSDETest.Controllers.GlobalContactsController",
+    "Method": "SearchByName",
+    "RelativePath": "api/GlobalContacts/SearchByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

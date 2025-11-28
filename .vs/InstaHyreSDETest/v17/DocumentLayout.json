@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\controllers\\globalcontactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\controllers\\globalcontactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\dto\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\dto\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\models\\globalcontactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\models\\globalcontactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\repository\\contactlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\repository\\contactlistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\dto\\jwtresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\dto\\jwtresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\constants\\instahyretokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\constants\\instahyretokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\repository\\authentication\\userauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\repository\\authentication\\userauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\dto\\contactbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\dto\\contactbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\entities\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\entities\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\enums\\numbertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\enums\\numbertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|c:\\users\\unlock me\\desktop\\instahyresdetest\\instahyresdetest\\instahyresdetest\\utilities\\aresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E8ADE4-881E-42E9-98F0-141861907527}|InstaHyreSDETest\\InstaHyreSDETest.csproj|solutionrelative:instahyresdetest\\utilities\\aresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\appsettings.Development.json",
+              "RelativeToolTip": "InstaHyreSDETest\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T19:19:07.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Repository\\Authentication\\UserAuthRepo.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Repository\\Authentication\\UserAuthRepo.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Repository\\Authentication\\UserAuthRepo.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Repository\\Authentication\\UserAuthRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:09:53.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Program.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Program.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Program.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:48:06.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\GlobalContactsController.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Controllers\\GlobalContactsController.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\GlobalContactsController.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Controllers\\GlobalContactsController.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAACQBAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:43:02.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADgv14AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:58:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactListRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Repository\\ContactListRepo.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Repository\\ContactListRepo.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Repository\\ContactListRepo.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Repository\\ContactListRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:22:17.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Data\\AppUser.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Data\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Data\\AppUser.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Data\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:42:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\SearchResponseDTO.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\DTO\\SearchResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\SearchResponseDTO.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\DTO\\SearchResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:03:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWTResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\JWTResponseDTO.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\DTO\\JWTResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\JWTResponseDTO.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\DTO\\JWTResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:52:43.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\GlobalContactModel.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Models\\GlobalContactModel.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\GlobalContactModel.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Models\\GlobalContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:32:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstaHyreTokens.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Constants\\InstaHyreTokens.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Constants\\InstaHyreTokens.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Constants\\InstaHyreTokens.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Constants\\InstaHyreTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:55:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\LoginModel.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:49:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Entities\\Contacts.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Entities\\Contacts.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Entities\\Contacts.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Entities\\Contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:07:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\ContactBookDTO.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\DTO\\ContactBookDTO.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\DTO\\ContactBookDTO.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\DTO\\ContactBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:44:32.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:02:15.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NumberType.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Enums\\NumberType.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Enums\\NumberType.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Enums\\NumberType.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Enums\\NumberType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:26:32.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\appsettings.json",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\appsettings.json",
+              "RelativeToolTip": "InstaHyreSDETest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T12:24:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:37:53.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:03:42.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Utilities\\AResponse.cs",
+              "RelativeDocumentMoniker": "InstaHyreSDETest\\Utilities\\AResponse.cs",
+              "ToolTip": "C:\\Users\\Unlock me\\Desktop\\InstaHyreSDETest\\InstaHyreSDETest\\InstaHyreSDETest\\Utilities\\AResponse.cs",
+              "RelativeToolTip": "InstaHyreSDETest\\Utilities\\AResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:36:38.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
